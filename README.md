@@ -1,4 +1,4 @@
 bilateral_filtering
 ===================
 
-Bilateral filtering on graphlab
+Bilateral filtering implemented on graphlab
