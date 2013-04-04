@@ -1,0 +1,2 @@
+project(bilateral_filter)
+add_graphlab_executable(bilateral_filter bilateral_filter.cpp)
